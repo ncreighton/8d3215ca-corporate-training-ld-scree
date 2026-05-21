@@ -1,0 +1,2 @@
+# 8d3215ca-corporate-training-ld-scree
+Stop wasting hours recreating training screenshots because your current methods are clunky. The Corporate Training &amp; L&amp;D Screenshot and Annotation Tool Chrome Extension is built specifically for instructional designers and L&amp;D pros who need to capture, annotate, and share process steps in under a minute.  This tool eliminates the back-and-forth bet
